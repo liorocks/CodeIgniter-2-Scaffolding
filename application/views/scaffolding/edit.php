@@ -1,6 +1,5 @@
 <p><?php echo anchor('scaffolding'.$table_url, '&lt; '.$this->lang->line('scaff_view_all'));?></p>
 
-
 <?php echo form_open('scaffolding/update/'.$this->uri->segment(3).$table_url); ?>
 
 <table border="0" cellpadding="3" cellspacing="1">
@@ -23,4 +22,7 @@
 
 <input type="submit" class="submit" value="Update" />
 
-<?php echo form_close(); ?>
+<?php echo form_close(); 
+
+/* End of file edit.php */
+/* Location: ./application/views/scaffolding/edit.php */

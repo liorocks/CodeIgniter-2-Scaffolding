@@ -18,4 +18,7 @@
 <?php endforeach; ?>
 </table>
 
-<?php echo $paginate; ?>
+<?php echo $paginate; 
+
+/* End of file view.php */
+/* Location: ./application/views/scaffolding/view.php */

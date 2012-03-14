@@ -30,3 +30,7 @@
 </div>
 <br clear="all">
 <div id="outer">
+<?php
+
+/* End of file header.php */
+/* Location: ./application/views/scaffolding/header.php */

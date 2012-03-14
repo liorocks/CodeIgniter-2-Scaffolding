@@ -1,8 +1,9 @@
-<?php  $this->load->view('header');  ?>
+<?php  $this->load->view('scaffolding/header');  ?>
 
-<p><?php echo $scaff_no_data; ?></p>
-<p><?php echo anchor(array($base_uri, 'add'), $scaff_create_record); ?></p>
+<p><?php echo $this->lang->line('scaff_no_data'); ?></p>
+<p><?php echo anchor('scaffolding/add'.$table_url, $this->lang->line('scaff_create_record')); ?></p>
 
-<?php $this->load->view('footer'); 
+<?php $this->load->view('scaffolding/footer'); 
+
 /* End of file no_data.php */
-/* Location: ./system/scaffolding/views/no_data.php */
+/* Location: ./application/views/scaffolding/no_data.php */

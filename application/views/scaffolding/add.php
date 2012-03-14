@@ -1,8 +1,4 @@
-
-
 <p><?php echo anchor('scaffolding'.$table_url, '&lt; '.$this->lang->line('scaff_view_all')); ?></p>
-
-
 
 <?php echo form_open('scaffolding/insert'.$table_url); ?>
 
@@ -27,3 +23,8 @@
 <input type="submit" class="submit" value="Insert" />
 
 <?php echo form_close(); ?>
+
+<?php
+
+/* End of file add.php */
+/* Location: ./application/views/scaffolding/add.php */
