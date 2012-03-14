@@ -159,7 +159,7 @@ class Scaffolding extends CI_Controller {
 		
 		if ($total_rows < 1)
 		{
-			return $this->load->view('no_data');
+			return $this->load->view('scaffolding/no_data');
 		}
 		
 		// Set the query limit/offset
