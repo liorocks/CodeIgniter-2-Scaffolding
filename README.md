@@ -11,17 +11,16 @@ Usage:
 * Setup Database configuration in `/application/config/database.php` file
 * Go to http://example.com/index.php/scaffolding or http://example.com/scaffolding, if you have [removed index.php file](http://codeigniter.com/user_guide/general/urls.html)
 
-Demo: 
+Demo:
 ---
 ### Table List
-
 ![](https://github.com/Landish/Scaffolding-Controller-for-CodeIgniter-2.X/raw/master/assets/scaffolding/images/data/tables-list.jpg)
 
-### No Data
+### No Data in Table
 ![](https://github.com/Landish/Scaffolding-Controller-for-CodeIgniter-2.X/raw/master/assets/scaffolding/images/data/no-data.jpg)
 
-### Add Form
+### Add/Edit Form
 ![](https://github.com/Landish/Scaffolding-Controller-for-CodeIgniter-2.X/raw/master/assets/scaffolding/images/data/add-form.jpg)
 
-### Delete Form
+### Delete Data
 ![](https://github.com/Landish/Scaffolding-Controller-for-CodeIgniter-2.X/raw/master/assets/scaffolding/images/data/delete.jpg)
