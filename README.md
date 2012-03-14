@@ -5,15 +5,21 @@ Scaffolding Controller for CodeIgniter 2.X
 Usage:
 ---
 
-1) Download Archive from Github Repository and place /assets/ and /application/ into your root folder (/application/ folder must beoverwritten). 
-2) Setup Database configuration in /application/config/database.php file
-3) Go to http://example.com/index.php/scaffolding or http://example.com/scaffolding, if you have [removed index.php file](http://codeigniter.com/user_guide/general/urls.html)
+* Download Archive from Github Repository and place /assets/ and /application/ into your root folder (/application/ folder must beoverwritten). 
+* Setup Database configuration in /application/config/database.php file
+* Go to http://example.com/index.php/scaffolding or http://example.com/scaffolding, if you have [removed index.php file](http://codeigniter.com/user_guide/general/urls.html)
 
-Screens: 
+Demo: 
 ---
+### Table List
 
-![](https://github.com/Landish/Scaffolding-Controller-for-CodeIgniter-2.X/raw/master/assets/scaffolding/images/background.jpg)
+![](https://github.com/Landish/Scaffolding-Controller-for-CodeIgniter-2.X/raw/master/assets/scaffolding/images/data/tables-list.jpg)
 
-or https://github.com/Landish/Scaffolding-Controller-for-CodeIgniter-2.X/raw/master/assets/scaffolding/images/background.jpg
+### No Data
+![](https://github.com/Landish/Scaffolding-Controller-for-CodeIgniter-2.X/raw/master/assets/scaffolding/images/data/no-data.jpg)
 
-or (https://github.com/Landish/Scaffolding-Controller-for-CodeIgniter-2.X/raw/master/assets/scaffolding/images/background.jpg)
+### Add Form
+![](https://github.com/Landish/Scaffolding-Controller-for-CodeIgniter-2.X/raw/master/assets/scaffolding/images/data/add-form.jpg)
+
+### Delete Form
+![](https://github.com/Landish/Scaffolding-Controller-for-CodeIgniter-2.X/raw/master/assets/scaffolding/images/data/delete.jpg)
