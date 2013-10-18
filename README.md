@@ -1,6 +1,6 @@
 CodeIgniter 2 Scaffolding
 ===
-[CodeIgniter](http://codeigniter.com) is one of the most powerfveul, flexible and secure PHP Frameworks. 
+[CodeIgniter](http://codeigniter.com) is one of the most powerfeul, flexible and secure PHP Frameworks. 
 Since first version, it had a great feature called `Scaffolding`, which unfortunately later was [deprecated.](http://codeigniter.com/user_guide/changelog.html)
 
 This is based on it's original Scaffolding class, and as it was recommended, this tool must be used for __development only__. Deploying site with this controller can be very harmful for your application.
