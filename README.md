@@ -15,13 +15,13 @@ Usage:
 Demo:
 ---
 ### Table List
-![](https://github.com/Landish/Scaffolding-Controller-for-CodeIgniter-2.X/raw/master/assets/scaffolding/images/data/tables-list.jpg)
+![](https://github.com/Landish/CodeIgniter-2-Scaffolding/raw/master/assets/scaffolding/images/data/tables-list.jpg)
 
 ### No Data in Table
-![](https://github.com/Landish/Scaffolding-Controller-for-CodeIgniter-2.X/raw/master/assets/scaffolding/images/data/no-data.jpg)
+![](https://github.com/Landish/CodeIgniter-2-Scaffolding/raw/master/assets/scaffolding/images/data/no-data.jpg)
 
 ### Add/Edit Form
-![](https://github.com/Landish/Scaffolding-Controller-for-CodeIgniter-2.X/raw/master/assets/scaffolding/images/data/add-form.jpg)
+![](https://github.com/Landish/CodeIgniter-2-Scaffolding/raw/master/assets/scaffolding/images/data/add-form.jpg)
 
 ### Delete Data
-![](https://github.com/Landish/Scaffolding-Controller-for-CodeIgniter-2.X/raw/master/assets/scaffolding/images/data/delete.jpg)
+![](https://github.com/Landish/CodeIgniter-2-Scaffolding/raw/master/assets/scaffolding/images/data/delete.jpg)
