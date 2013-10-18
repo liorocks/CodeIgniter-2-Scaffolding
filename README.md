@@ -1,4 +1,4 @@
-CodeIgniter Scaffolding
+CodeIgniter 2 Scaffolding
 ===
 [CodeIgniter](http://codeigniter.com) is one of the most powerfveul, flexible and secure PHP Frameworks. 
 Since first version, it had a great feature called `Scaffolding`, which unfortunately later was [deprecated.](http://codeigniter.com/user_guide/changelog.html)
