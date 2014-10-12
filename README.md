@@ -7,7 +7,7 @@ This is based on it's original Scaffolding class, and as it was recommended, thi
 
 #How to Use?
 
-* [Download Archive from Github Repository](https://github.com/Landish/CodeIgniter-2-Scaffolding/archive/master.zip)
+* [Download Archive from Github Repository](https://github.com/bestwebtuts/CodeIgniter-2-Scaffolding/archive/master.zip)
 * Place `/assets/` and `/application/` into your root directory (Note: `/application/` folder must be overwritten). 
 * Setup Database configuration in `/application/config/database.php` file
 * Go to http://example.com/index.php/scaffolding ( or http://example.com/scaffolding, if you have [removed index.php file](http://codeigniter.com/user_guide/general/urls.html) )
